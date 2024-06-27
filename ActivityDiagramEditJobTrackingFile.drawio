@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T13:56:16.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5vJ15DRU3yNBwSeFThUp" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T13:57:53.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YOK3Hfv9zJQBhrnOizhJ" version="24.6.3" type="github">
   <diagram name="Page-1" id="pan1mzJFetRBhNDHFgHf">
     <mxGraphModel dx="2694" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="4h5Hu0jHjvkrGWykz8Xl-5" value="Sélectionner la mission à éditer" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
           <mxGeometry x="81" y="151" width="200" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-6" value="Cliquer sur la l&#39;option d&#39;exportation" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
+        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-6" value="Cliquer sur le bouton d&#39;exportation" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
           <mxGeometry x="81" y="278" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4h5Hu0jHjvkrGWykz8Xl-7" value="Choisir le format auquel on veut exporter la fiche de suivi" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
@@ -31,10 +31,10 @@
         <mxCell id="4h5Hu0jHjvkrGWykz8Xl-59" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#120d0d;fontSize=8;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
           <mxGeometry x="32.25" y="564" width="299.75" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-46" value="Exporter Excel" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
+        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-46" value="Exporter en Excel" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
           <mxGeometry x="9" y="616" width="88" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-79" value="Exporter Word" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
+        <mxCell id="4h5Hu0jHjvkrGWykz8Xl-79" value="Exporter en Word" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
           <mxGeometry x="131" y="616" width="88" height="36" as="geometry" />
         </mxCell>
         <mxCell id="4h5Hu0jHjvkrGWykz8Xl-80" value="Exporter en PDF" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4h5Hu0jHjvkrGWykz8Xl-1">
