@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T08:11:11.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Lcc7kyjFHmqQtr_4d6Pp" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T08:14:21.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5MI4s2HzvhRDo41C36KG" version="24.6.4" type="github">
   <diagram name="Page-1" id="eOzxwkxJhR1uEOVXx61d">
-    <mxGraphModel dx="3829" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2496" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -24,7 +24,7 @@
         <mxCell id="5xu6NKzClNryoPFWU2Ne-28" value="Fournir les informations pour rechercher les MOJ à affecter à la mission" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="5xu6NKzClNryoPFWU2Ne-1" vertex="1">
           <mxGeometry x="81" y="370" width="319" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="5xu6NKzClNryoPFWU2Ne-53" value="Cliquer sur le nom de la MOJ à assigner à la mission" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="5xu6NKzClNryoPFWU2Ne-1" vertex="1">
+        <mxCell id="5xu6NKzClNryoPFWU2Ne-53" value="Valider l&#39;ajout de la MOJ à&amp;nbsp; la mission" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="5xu6NKzClNryoPFWU2Ne-1" vertex="1">
           <mxGeometry x="81" y="814" width="329" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5xu6NKzClNryoPFWU2Ne-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Georgia;fontSize=16;startSize=14;endArrow=classicThin;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=1;strokeColor=none;" parent="5xu6NKzClNryoPFWU2Ne-1" edge="1">
