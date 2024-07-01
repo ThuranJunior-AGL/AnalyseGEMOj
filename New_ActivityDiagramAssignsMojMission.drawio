@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T10:10:10.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2Wg1_1I6P2IP3yrhmofq" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T10:11:36.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LrjUjo-hNVvbzZOF9uNH" version="24.6.4" type="github">
   <diagram name="Page-1" id="avv3zr6gYFJ-e1_Ntfxp">
-    <mxGraphModel dx="2619" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1972" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,9 +275,6 @@
             <mxPoint x="220" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBxBChpMxb5zs4vPhDht-123" value="Ouvrir le modal de confirmation de l&#39;ajout" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WBxBChpMxb5zs4vPhDht-3">
-          <mxGeometry x="69.5" y="692" width="201" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="WBxBChpMxb5zs4vPhDht-9" value="" style="endArrow=classicThin;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;edgeStyle=orthogonalEdgeStyle;entryX=0.457;entryY=-0.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WBxBChpMxb5zs4vPhDht-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="-120" as="sourcePoint" />
@@ -417,7 +414,7 @@
         <mxCell id="WBxBChpMxb5zs4vPhDht-66" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="467" y="401" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WBxBChpMxb5zs4vPhDht-115" value="" style="endArrow=classicThin;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" target="WBxBChpMxb5zs4vPhDht-66">
+        <mxCell id="WBxBChpMxb5zs4vPhDht-115" value="" style="endArrow=classicThin;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;strokeColor=#FF0000;" edge="1" parent="1" target="WBxBChpMxb5zs4vPhDht-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="761" y="460" as="sourcePoint" />
             <mxPoint x="210" y="230" as="targetPoint" />
