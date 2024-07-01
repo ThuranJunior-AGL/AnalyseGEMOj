@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T10:21:12.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YCAowy9DDVQPO_jBL51N" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T10:23:34.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3pAXVI66h8VOK72SUXlf" version="24.6.4" type="github">
   <diagram name="Page-1" id="avv3zr6gYFJ-e1_Ntfxp">
     <mxGraphModel dx="1972" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
         <mxCell id="WBxBChpMxb5zs4vPhDht-52" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WBxBChpMxb5zs4vPhDht-3">
           <mxGeometry x="166" y="201" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WBxBChpMxb5zs4vPhDht-54" value="Retournée des données" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WBxBChpMxb5zs4vPhDht-3">
+        <mxCell id="WBxBChpMxb5zs4vPhDht-54" value="Retourner des données" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WBxBChpMxb5zs4vPhDht-3">
           <mxGeometry x="40" y="243" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WBxBChpMxb5zs4vPhDht-55" value="" style="endArrow=classicThin;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;strokeColor=default;" edge="1" parent="WBxBChpMxb5zs4vPhDht-3" source="WBxBChpMxb5zs4vPhDht-52">
